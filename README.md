@@ -23,3 +23,5 @@ For each scenario, the analysis considers:
 Legal issue → Commercial impact → Available options → Risk mitigation → Recommended action
 
 The project is an independent educational exercise and does not constitute legal advice.
+
+https://docs.google.com/document/d/1z-RU1k8yQdhua39jzm0Ps8fWBKCs2g1fsTTfoiDdf-0/edit?usp=sharing
